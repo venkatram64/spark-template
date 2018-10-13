@@ -2,3 +2,4 @@
 *.iml
 spark-warehouse
 /target
+/output

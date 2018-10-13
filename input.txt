@@ -1,4 +1,4 @@
-Hi, How are you
+Hi How are you
 My name is venkatram
 I am a software engineer
-I am s Technical  architect
+I am a Technical  architect
