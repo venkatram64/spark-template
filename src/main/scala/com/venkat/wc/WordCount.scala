@@ -5,8 +5,6 @@ import org.apache.spark.sql.SparkSession
 
 object WordCount extends App{
 
-
-
   val sparkSession = SparkSession
                     .builder
                     .master("local")
